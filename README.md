@@ -162,7 +162,7 @@ https://blogs.sap.com/2021/08/25/introduction-to-analytics-designer-developer-ha
 - [View Persistence](/exercises/ex0/change-management) - :construction::construction::construction:
 
 ## Comments, Issues and Feedbacks
-Comments, issues and feedbacks are highly welcome to improve this tutorial grudually. For that please add a comment on the linked blog:
+Comments, issues and feedbacks are highly welcome to improve this tutorial grudually. For that please create an issue under this github repository or add a comment on the linked blog:
 https://blogs.sap.com/2021/11/19/modeling-in-sap-data-warehouse-cloud/
 
 I will try to reply as soon as time allows :)
