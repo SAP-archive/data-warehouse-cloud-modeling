@@ -161,6 +161,11 @@ https://blogs.sap.com/2021/08/25/introduction-to-analytics-designer-developer-ha
 - [Change Management](exercises/ex0/change-management) - :construction::construction::construction:
 - [View Persistence](/exercises/ex0/change-management) - :construction::construction::construction:
 
+
+## How to obtain support
+[Create an issue](https://github.com/SAP-samples/data-warehouse-cloud-modeling/issues) in this repository if you find a bug or have questions about the content.
+For additional support, [ask a question in SAP Community](https://answers.sap.com/questions/ask.html).
+
 ## Comments, Issues and Feedbacks
 Comments, issues and feedbacks are highly welcome to improve this tutorial grudually. For that please create an issue under this github repository or add a comment on the linked blog:
 https://blogs.sap.com/2021/11/19/modeling-in-sap-data-warehouse-cloud/
