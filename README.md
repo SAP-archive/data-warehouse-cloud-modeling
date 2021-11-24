@@ -178,7 +178,7 @@ For additional support, [ask a question in SAP Community](https://answers.sap.co
      -  SAP Data Intelligence Tutorials: https://blogs.sap.com/2021/02/04/sap-data-intelligence-hands-on-video-tutorials/
 
 ## License
-Copyright (c) 2020 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
+Copyright (c) 2021 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
 
 
 <!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=d031182.visitor-badge&left_color=blue&right_color=lightblue&left_text=visitors) -->
