@@ -120,31 +120,21 @@ https://blogs.sap.com/2021/08/25/introduction-to-analytics-designer-developer-ha
 - [**Exercise 4.4 - Extend Internal Orders View**](/exercises/ex4/internal-special-orders-view)
    - Union Node
 
-[<h2>Exercise 4 - Internal Orders Enhancements</h2>](exercises/ex4/):construction::construction::construction:
+[<h2>Exercises in Pipeline</h2>](exercises/ex4/):construction::construction::construction:
 > **Lessons**: Time Dependency
-
- 
-- Exercise 4.1 - Create Entity Relationship Model (ERM) - :construction::construction::construction:
+- Exercise - Create Entity Relationship Model (ERM) - :construction::construction::construction:
    - Associations
    - Text Associations
    - Hierarchy Associations
-- Exercise 4.1 - Create Extended Internal Orders View - :construction::construction::construction:
-  - Change Management    
-  - Union Node - :construction::construction::construction:
-  - Aggregation Node - :construction::construction::construction:
-
-- Exercise 4.2 - Create Cost Center View - :construction::construction::construction: 
-  - Compound Keys - :construction::construction::construction:
-- Exercise 4.3 - Create Cost Center Hierarchy View - :construction::construction::construction:
+- Create Cost Center Hierarchy View - :construction::construction::construction:
   - Time Dependency :construction::construction::construction:
-- [Exercise 4.4 - Internal Orders] - :construction::construction::construction:
+- [SQL Internal Orders] - :construction::construction::construction:
   - SQL View :construction::construction::construction:
   - Scripted View :construction::construction::construction:
   - Window Functions :construction::construction::construction:
 - Excercise 4.5:  :construction::construction::construction:     
   - Cross Space Sharing :construction::construction::construction:
 - Excercise 4.6 View Persistence :construction::construction::construction:
-- Exercise 4.7 DataFlow from Local Table to Local Table
    
 ### Business Layer :construction::construction::construction:
 - [Exercise 7 - Sales Pipeline]
