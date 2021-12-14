@@ -110,7 +110,7 @@ https://blogs.sap.com/2021/08/25/introduction-to-analytics-designer-developer-ha
 
 
  
-[<h2>Exercise 4 - Extended Internal Orders</h2>](exercises/ex3/):construction::construction::construction:
+[<h2>Exercise 4 - Enhancing Special Orders</h2>](exercises/ex4/):construction::construction::construction:
 > **Lessons**: Time Dependency
 >
 - [**Exercise 4.1 - Create Cost Center Dataflow**](/exercises/ex4/costcenter-dataflow)
