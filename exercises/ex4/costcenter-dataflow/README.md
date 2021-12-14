@@ -1,4 +1,4 @@
-# Create <i>Internal Orders per Cost Center</i> View
+# Create <i>Create Cost Center Data Flow</i> View
 
 1. Navigate to the Repository Explorer
 2. Click on **Create - Graphical View** button to create a new view
