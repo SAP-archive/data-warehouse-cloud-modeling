@@ -6,7 +6,7 @@ In this exercise, you're going to build up a reporting in Internal Orders to ans
 - What is my own Order Volume?
 - What is the Sales Revenue per Location?
 
-Along the exercise you will learn about concepts such as Currency Conversion, advanced Parent Child Hierarchy, Data Access Control.
+Along the exercise you will learn about advanced concepts and features such as Currency Conversion, Parent Child Hierarchy and applying Data Access Control.
 
 
 - [**Exercise 3.1 - Create Employee View**](/exercises/ex3/employees-view)
