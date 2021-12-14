@@ -1,7 +1,7 @@
 # Exercise 2 - Sales Orders
 
 In this exercise, you're going to build up a reporting in Sales to answer the questions:
-- What is the Sales Revenue on the last 5 years?
+- What is the Sales History?
 - What is the Sales Revenue per Product?
 - What is the Sales Revenue per Business Partner / Customer?
 - What is the Sales Revenue per Location?
