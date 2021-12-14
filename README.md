@@ -122,8 +122,8 @@ https://blogs.sap.com/2021/08/25/introduction-to-analytics-designer-developer-ha
   - Union Node - :construction::construction::construction:
   - Aggregation Node - :construction::construction::construction:
 - [**Exercise 4.1 - Create Cost Center Dataflow**](/exercises/ex4/costcenter-dataflow)
-- Exercise 4.2 - Create Cost Center View - :construction::construction::construction:
-  - Data Flow  
+   - Data Flow  
+- Exercise 4.2 - Create Cost Center View - :construction::construction::construction: 
   - Compound Keys - :construction::construction::construction:
 - Exercise 4.3 - Create Cost Center Hierarchy View - :construction::construction::construction:
   - Time Dependency :construction::construction::construction:
