@@ -16,6 +16,16 @@
 <br><br>![](../images/cost_center_dataflow_08.png)
 <br><br>![](../images/cost_center_dataflow_09.png)
 <br><br>![](../images/cost_center_dataflow_10.png)
+
+
+
+    #####################################################
+    # Provide the function body for data transformation #
+    #####################################################
+    data["CC1"] = (data["COMPANYCODE"].astype(str) +  data["COSTCENTER"])   
+    return data
+
+
 <br><br>![](../images/cost_center_dataflow_11.png)
 <br><br>![](../images/cost_center_dataflow_12.png)
 <br><br>![](../images/cost_center_dataflow_13.png)
