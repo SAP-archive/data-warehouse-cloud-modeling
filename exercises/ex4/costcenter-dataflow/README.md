@@ -1,16 +1,13 @@
 # Create <i>Cost Center </i> Data Flow
 
 1. Navigate to the Repository Explorer
-2. Click on **Create - Graphical View** button to create a new view
-  <br><br>![](/exercises/ex1/images/create_in_repository_explorer.png)
+2. Click on **Create - Data Flow** button to create a new view
+  <br><br>![](../images/cost_center_dataflow_01.png)
 3. Click on **Details** button and configure the following properties:
-  - Business Name: **V_SALES_ORDERS**
-  - Technical Name: **V_SALES_ORDERS**
-  - Semantic Usage: **Analytical Dataset**
-  - Expose for Consumption: **ON**
+  - Business Name: **DF_COSTCENTER**
+  - Technical Name: **DF_COSTCENTER**
+  <br><br>![](../images/cost_center_dataflow_02.png)
 
-<br><br>![](../images/cost_center_dataflow_01.png)
-<br><br>![](../images/cost_center_dataflow_02.png)
 <br><br>![](../images/cost_center_dataflow_03.png)
 <br><br>![](../images/cost_center_dataflow_04.png)
 <br><br>![](../images/cost_center_dataflow_05.png)
