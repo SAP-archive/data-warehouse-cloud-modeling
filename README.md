@@ -116,6 +116,7 @@ https://blogs.sap.com/2021/08/25/introduction-to-analytics-designer-developer-ha
 - [**Exercise 4.2 - Cost Center View**](/exercises/ex4/costcenter-view)
 - [**Exercise 4.3 - Create Special Orders Table**](/exercises/ex4/special-orders-table)
    - Open SQL Schema
+   - HANA Database Explorer
 - [**Exercise 4.4 - Extend Internal Orders View**](/exercises/ex4/internal-special-orders-union-view)
    - Union Node
 
