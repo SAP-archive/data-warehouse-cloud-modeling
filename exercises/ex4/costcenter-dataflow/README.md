@@ -22,7 +22,7 @@
     #####################################################
     # Provide the function body for data transformation #
     #####################################################
-    data["CC1"] = (data["COMPANYCODE"].astype(str) +  data["COSTCENTER"])   
+    data["COMP_COSTCTR"] = (data["COMPANYCODE"].astype(str) +  data["COSTCENTER"])   
     return data
 
 
