@@ -1,6 +1,12 @@
 # Exercise 2 - Sales Orders
 
-In this exercise, you will learn about the basic modeling concepts and features, which are most commonly used in SAP Data Warehouse Cloud. 
+In this exercise, you're going to build up a reporting in Sales to answer the questions:
+- What is the Sales Revenue on the last 5 years?
+- What is the Sales Revenue per Product?
+- What is the Sales Revenue per Business Partner / Customer?
+- What is the Sales Revenue per Location?
+
+Along this this scenario you will learn about the basic modeling concepts and features, which are most commonly used in SAP Data Warehouse Cloud. 
 
 - [**Exercise 2.1 - Create Business Partners View**](/exercises/ex2/business-partners-view)
    - Dimension View
