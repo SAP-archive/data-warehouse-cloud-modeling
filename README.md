@@ -109,19 +109,21 @@ https://blogs.sap.com/2021/08/25/introduction-to-analytics-designer-developer-ha
 - [**Exercise 3.6 - Create Internal Orders Story in SAP Analytics Cloud**](/exercises/ex3/internal-orders-story)
 
 
- 
+
 [<h2>Exercise 4 - Internal Orders Enhancements</h2>](exercises/ex4/):construction::construction::construction:
 > **Lessons**: Time Dependency
->
 - [**Exercise 4.1 - Create Cost Center Dataflow**](/exercises/ex4/costcenter-dataflow)
-   - Data Flow  
-
-- [**Exercise 4.2 - Create Special Orders Table**](/exercises/ex4/special-orders-table)
+   - Data Flow 
+- [**Exercise 4.2 - Cost Center View**](/exercises/ex4/costcenter-view)
+- [**Exercise 4.3 - Create Special Orders Table**](/exercises/ex4/special-orders-table)
    - Open SQL Schema
-
-- [**Exercise 4.3 - Extend Internal Orders View**](/exercises/ex4/internal-special-orders-union-view)
+- [**Exercise 4.4 - Extend Internal Orders View**](/exercises/ex4/internal-special-orders-union-view)
    - Union Node
-  
+
+[<h2>Exercise 4 - Internal Orders Enhancements</h2>](exercises/ex4/):construction::construction::construction:
+> **Lessons**: Time Dependency
+
+ 
 - Exercise 4.1 - Create Entity Relationship Model (ERM) - :construction::construction::construction:
    - Associations
    - Text Associations
