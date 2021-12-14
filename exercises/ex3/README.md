@@ -1,5 +1,14 @@
 # Exercise 3 - Internal Orders
 
+In this exercise, you're going to build up a reporting in Internal Orders to answer the questions:
+- What is the Order Volume per Employee?
+- What is the Order Volume per Product Category?
+- What is my own Order Volume?
+- What is the Sales Revenue per Location?
+
+Along the exercise you will learn about concepts such as advanced Parent Child Hierarchy, Data Access Control.
+
+
 - [**Exercise 3.1 - Create Employee View**](/exercises/ex3/employees-view)
    - Parent Child Hierarchy (Internal)
 - [**Exercise 3.2 - Create Vendor Product Category Hierarchy View**](/exercises/ex3/vendor-product-category-hierarchy-view)
