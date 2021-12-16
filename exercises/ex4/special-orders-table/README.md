@@ -25,6 +25,14 @@
 
 <br><br>![](../images/open_sql_09.png)
 <br><br>![](../images/open_sql_10.png)
+
+```
+insert into T_SPECIAL_ORDER values(	
+	800000001, '2021-01-01', '9004', 'C01004', 
+	'SPECIAL', 1, 400, 'EUR', '9004C01004' 
+)
+```
+
 <br><br>![](../images/open_sql_11.png)
 <br><br>![](../images/open_sql_12.png)
 <br><br>![](../images/open_sql_13.png)
