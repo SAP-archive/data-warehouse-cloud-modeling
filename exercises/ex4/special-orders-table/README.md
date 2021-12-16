@@ -34,5 +34,9 @@ insert into T_SPECIAL_ORDER values(
 ```
 
 <br><br>![](../images/open_sql_11.png)
+
+```
+select * from T_SPECIAL_ORDER
+```
 <br><br>![](../images/open_sql_12.png)
 <br><br>![](../images/open_sql_13.png)
