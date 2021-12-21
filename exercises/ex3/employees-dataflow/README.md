@@ -54,16 +54,16 @@
   and click on the _Create and Deploy Table_ button.
   <br><br>![](../images/employee_dataflow_13.png)
 
-14. Click on _Save_ and _Deploy_ button.
+14. Once the table **T_EMPLOYEES** is created, change the update mode to **TRUNCATE**. 
+  <br><br>![](../images/employee_dataflow_13b.png)
+
+15. Click on _Save_ and _Deploy_ button.
   <br><br>![](../images/employee_dataflow_14.png)
   
-15. Once the table **T_EMPLOYEES** is created, change the update mode to **TRUNCATE**. 
-  <br><br>![](../images/employee_dataflow_13b.png)
-  
-15. Click on _Run_ button to run the data flow. Make sure that the process is completed by click on the _Refresh_ button.
+16. Click on _Run_ button to run the data flow. Make sure that the process is completed by click on the _Refresh_ button.
   <br><br>![](../images/employee_dataflow_15.png)
 
-16. Select the target table operator and click on _Preview Data_ from the context menu. Validate the result of the column **FULL_NAME**.
+17. Select the target table operator and click on _Preview Data_ from the context menu. Validate the result of the column **FULL_NAME**.
   <br><br>![](../images/employee_dataflow_16.png)
  
 
