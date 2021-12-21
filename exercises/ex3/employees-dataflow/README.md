@@ -60,12 +60,10 @@
 15. Click on _Run_ button to run the data flow. Make sure that the process is completed by click on the _Refresh_ button.
   <br><br>![](../images/employee_dataflow_15.png)
 
-16. Select the target table operator and click on _Preview Data_ from the context menu.
+16. Select the target table operator and click on _Preview Data_ from the context menu. Validate the result of the column **FULL_NAME**.
   <br><br>![](../images/employee_dataflow_16.png)
  
-<br><br>![](../images/employee_dataflow_17.png)
-<br><br>![](../images/employee_dataflow_18.png)
-<br><br>![](../images/employee_dataflow_19.png)
+
 
 
 
