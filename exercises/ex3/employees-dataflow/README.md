@@ -32,16 +32,14 @@
   <br><br>![](../images/employee_dataflow_09.png)
 
 10. Insert the following script.
-
-'''
-#####################################################
-# Provide the function body for data transformation #
-#####################################################
-data["COMP_COSTCTR"] = (data["COMPANYCODE"].astype(str) +  data["COSTCENTER"])   
-return data
-'''
-
-  <br><br>![](../images/employee_dataflow_10.png)
+    ```
+    #####################################################
+    # Provide the function body for data transformation #
+    #####################################################
+    data["COMP_COSTCTR"] = (data["COMPANYCODE"].astype(str) +  data["COSTCENTER"])   
+    return data
+    ```
+    ![](../images/employee_dataflow_10.png)
 
 
 
