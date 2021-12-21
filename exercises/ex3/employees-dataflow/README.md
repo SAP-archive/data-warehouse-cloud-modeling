@@ -21,24 +21,28 @@
 7. Select the operator **Script 1** and create a new column from the menu.
   <br><br>![](../images/employee_dataflow_07.png)
 
-8. Maintain the following fields:
+8. Maintain the fields as the following and click on _Save_ button.
   - Name: **FULL_NAME**
   - Data Type: **string**
   - Length: **30**
   <br><br>![](../images/employee_dataflow_08.png)
-  and click on _Save_ button.
   
-  
-<br><br>![](../images/employee_dataflow_09.png)
-<br><br>![](../images/employee_dataflow_10.png)
 
+9. Click on the _Edit_ button.  
+  <br><br>![](../images/employee_dataflow_09.png)
 
-
+10. Insert the following script.
     #####################################################
     # Provide the function body for data transformation #
     #####################################################
     data["COMP_COSTCTR"] = (data["COMPANYCODE"].astype(str) +  data["COSTCENTER"])   
     return data
+  
+  <br><br>![](../images/employee_dataflow_10.png)
+
+
+
+
 
 
 <br><br>![](../images/employee_dataflow_11.png)
