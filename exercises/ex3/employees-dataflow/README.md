@@ -16,11 +16,19 @@
 
 6. Select the source operator **CSV_EMPLOYEES** and add a new _Link_ to the operator **Script 1**.
   <br><br>![](../images/employee_dataflow_05.png)
+  <br><br>![](../images/employee_dataflow_06.png)
 
-7. 
-<br><br>![](../images/employee_dataflow_06.png)
-<br><br>![](../images/employee_dataflow_07.png)
-<br><br>![](../images/employee_dataflow_08.png)
+7. Select the operator **Script 1** and create a new column from the menu.
+  <br><br>![](../images/employee_dataflow_07.png)
+
+8. Maintain the following fields:
+  - Name: **FULL_NAME**
+  - Data Type: **string**
+  - Length: **30**
+  <br><br>![](../images/employee_dataflow_08.png)
+  and click on _Save_ button.
+  
+  
 <br><br>![](../images/employee_dataflow_09.png)
 <br><br>![](../images/employee_dataflow_10.png)
 
