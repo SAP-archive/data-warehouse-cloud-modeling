@@ -8,9 +8,16 @@
   - Technical Name: **DF_EMPLOYEES**
   <br><br>![](../images/employee_dataflow_02.png)
 
-<br><br>![](../images/employee_dataflow_03.png)
-<br><br>![](../images/employee_dataflow_04.png)
-<br><br>![](../images/employee_dataflow_05.png)
+4. Drag and Drop the table **CSV_EMPLOYEES** into the canvas and set the type to **_Source_**. 
+  <br><br>![](../images/employee_dataflow_03.png)
+
+5. Add a new _Script_ Operator from the menu. The name is defaulted to **Script 1**.
+  <br><br>![](../images/employee_dataflow_04.png)
+
+6. Select the source operator **CSV_EMPLOYEES** and add a new _Link_ to the operator **Script 1**.
+  <br><br>![](../images/employee_dataflow_05.png)
+
+7. 
 <br><br>![](../images/employee_dataflow_06.png)
 <br><br>![](../images/employee_dataflow_07.png)
 <br><br>![](../images/employee_dataflow_08.png)
