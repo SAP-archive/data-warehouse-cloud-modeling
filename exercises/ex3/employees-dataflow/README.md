@@ -54,7 +54,8 @@
   and click on the _Create and Deploy Table_ button.
   <br><br>![](../images/employee_dataflow_13.png)
 
-14. Once the table **T_EMPLOYEES** is created, change the update mode to **TRUNCATE**. 
+14. After the table **T_EMPLOYEES** is created, change the update mode to **TRUNCATE**. This mode will delete all the data of the table before running the data flow. 
+  The other possible mode is _APPEND_, which will keep all the data.
   <br><br>![](../images/employee_dataflow_13b.png)
 
 15. Click on _Save_ and _Deploy_ button.
