@@ -4,8 +4,8 @@
 2. Click on **Create - Data Flow** button to create a new view
   <br><br>![](../images/employee_dataflow_01.png)
 3. Click on **Details** button and configure the following properties:
-  - Business Name: **DF_COSTCENTER**
-  - Technical Name: **DF_COSTCENTER**
+  - Business Name: **DF_EMPLOYEES**
+  - Technical Name: **DF_EMPLOYEES**
   <br><br>![](../images/employee_dataflow_02.png)
 
 <br><br>![](../images/employee_dataflow_03.png)
