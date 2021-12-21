@@ -36,18 +36,25 @@
     #####################################################
     # Provide the function body for data transformation #
     #####################################################
-    data["COMP_COSTCTR"] = (data["COMPANYCODE"].astype(str) +  data["COSTCENTER"])   
+    data["FULL_NAME"] = (data["NAME_FIRST"] + ' ' + data["NAME_LAST"])   
     return data
     ```
     ![](../images/employee_dataflow_10.png)
 
 
+11. Add a new _Table_ from the menu.
+  <br><br>![](../images/employee_dataflow_11.png)
+  
+12. Select the operator **Script 1** and add a _Link_ to the table.
+
+13. Select the operator table and maintain the following fields
+  - Business Name: **T_EMPLOYEES**
+  - Technical Name: **T_EMPLOYEES**
+
+  and click on the _Create and Deploy Table_ button.
+  <br><br>![](../images/employee_dataflow_12.png)
 
 
-
-
-<br><br>![](../images/employee_dataflow_11.png)
-<br><br>![](../images/employee_dataflow_12.png)
 <br><br>![](../images/employee_dataflow_13.png)
 <br><br>![](../images/employee_dataflow_14.png)
 <br><br>![](../images/employee_dataflow_15.png)
