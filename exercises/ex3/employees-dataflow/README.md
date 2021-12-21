@@ -46,19 +46,23 @@
   <br><br>![](../images/employee_dataflow_11.png)
   
 12. Select the operator **Script 1** and add a _Link_ to the table.
+  <br><br>![](../images/employee_dataflow_12.png)
 
 13. Select the operator table and maintain the following fields
   - Business Name: **T_EMPLOYEES**
   - Technical Name: **T_EMPLOYEES**
-
   and click on the _Create and Deploy Table_ button.
-  <br><br>![](../images/employee_dataflow_12.png)
+  <br><br>![](../images/employee_dataflow_13.png)
 
+14. Click on _Save_ and _Deploy_ button.
+  <br><br>![](../images/employee_dataflow_14.png)
+  
+15. Click on _Run_ button to run the data flow. Make sure that the process is completed by click on the _Refresh_ button.
+  <br><br>![](../images/employee_dataflow_15.png)
 
-<br><br>![](../images/employee_dataflow_13.png)
-<br><br>![](../images/employee_dataflow_14.png)
-<br><br>![](../images/employee_dataflow_15.png)
-<br><br>![](../images/employee_dataflow_16.png)
+16. Select the target table operator and click on _Preview Data_ from the context menu.
+  <br><br>![](../images/employee_dataflow_16.png)
+ 
 <br><br>![](../images/employee_dataflow_17.png)
 <br><br>![](../images/employee_dataflow_18.png)
 <br><br>![](../images/employee_dataflow_19.png)
