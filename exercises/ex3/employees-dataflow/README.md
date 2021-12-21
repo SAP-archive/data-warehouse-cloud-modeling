@@ -21,7 +21,7 @@
 7. Select the operator **Script 1** and create a new column from the menu.
   <br><br>![](../images/employee_dataflow_07.png)
 
-8. Maintain the fields as the following and click on _Save_ button.
+8. Maintain the properties as the following and click on _Save_ button.
   - Name: **FULL_NAME**
   - Data Type: **string**
   - Length: **30**
@@ -48,7 +48,7 @@
 12. Select the operator **Script 1** and add a _Link_ to the table.
   <br><br>![](../images/employee_dataflow_12.png)
 
-13. Select the operator table and maintain the following fields
+13. Select the operator table and maintain the following properties
   - Business Name: **T_EMPLOYEES**
   - Technical Name: **T_EMPLOYEES**
   and click on the _Create and Deploy Table_ button.
