@@ -69,7 +69,7 @@
 21. Select the model **V_MY_INTERNAL_ORDERS**
   <br><br>![](../images/internal_orders_story_25.png)
   
-22. Return to the story by clicking on the **Story** button from the toolbar.
+22. Return to the story by clicking on the _Story_ button from the toolbar.
   <br><br>![](../images/internal_orders_story_26.png)
   
 23. Add a new _Table_.
