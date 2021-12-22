@@ -40,8 +40,7 @@
   
 14. Select the measure **NETAMOUNT_TG** 
   <br><br>![](../images/internal_orders_story_16.png)
-  
-  <br><br>![](../images/internal_orders_story_16b.png)
+  <br>![](../images/internal_orders_story_16b.png)
 
 15. Add the column **PRODUCTID** into the **Rows** section
   <br><br>![](../images/internal_orders_story_17.png)
