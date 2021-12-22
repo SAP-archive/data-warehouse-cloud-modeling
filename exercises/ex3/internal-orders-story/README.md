@@ -28,34 +28,28 @@
 10. Add the column **EMPLOYEEID** into the **Rows** section
   <br><br>![](../images/internal_orders_story_10.png)
 
-11. Click on **Properties** from the context menu of **EMPLOYEEID**
-  <br><br>![](../images/internal_orders_story_11.png)
-  
-12. Select the column **NAME_LAST**
-  <br><br>![](../images/internal_orders_story_12.png)
-
-13. **Expand the Employee Hierarchy** and check result as the following
+11. **Expand the Employee Hierarchy** and check result as the following
   <br><br>![](../images/internal_orders_story_13.png)
   
-14. Add a **new Table** into the canvas
+12. Add a **new Table** into the canvas
   <br><br>![](../images/internal_orders_story_14.png)
   
 
-15. **Filter** the measures from the **Columns** section 
+13. **Filter** the measures from the **Columns** section 
   <br><br>![](../images/internal_orders_story_15.png)
   
-16. Select the measure **NETAMOUNT_TG** 
+14. Select the measure **NETAMOUNT_TG** 
   <br><br>![](../images/internal_orders_story_16.png)
   
   <br><br>![](../images/internal_orders_story_16b.png)
 
-17. Add the column **PRODUCTID** into the **Rows** section
+15. Add the column **PRODUCTID** into the **Rows** section
   <br><br>![](../images/internal_orders_story_17.png)
 
-18. **Expand the Vendor Product Category Hierarchy** and check result as the following
+16. **Expand the Vendor Product Category Hierarchy** and check result as the following
   <br><br>![](../images/internal_orders_story_18.png)
 
-19. ...
+17. ...
   <br><br>![](../images/internal_orders_story_19.png)
   <br><br>![](../images/internal_orders_story_20.png)
   <br><br>![](../images/internal_orders_story_21.png)
