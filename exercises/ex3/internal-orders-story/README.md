@@ -48,6 +48,11 @@
 16. **Expand the Vendor Product Category Hierarchy** and check result as the following
   <br><br>![](../images/internal_orders_story_18.png)
 
+16. **Expand the Vendor Product Category Hierarchy** and check result as the following
+  <br><br>![](../images/internal_orders_story_19.png)
+  
+  <br><br>![](../images/internal_orders_story_20.png)
+
 17. ...
   <br><br>![](../images/internal_orders_story_21.png)
   <br><br>![](../images/internal_orders_story_22.png)
