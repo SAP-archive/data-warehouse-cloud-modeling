@@ -22,9 +22,13 @@
     - Parent Column: <b>MANAGERID</b>
     - Child Column: <b>EMPLOYEEID</b>
   <br><br>![](../images/employee_view_06.png)
-8. Select the Output Node in the canvas and click on <b>Data Preview</b> from the context menu
+8. Selct the _Output_ Node and click on _Edit_ button of the _Attributes_ section.
+  <br><br>![](../images/employee_view_07.png)
+10. Set the  
+  <br><br>![](../images/employee_view_08.png)
+12. Select the Output Node in the canvas and click on <b>Data Preview</b> from the context menu
     <br><br>![](../images/employee_view_09.png)
-9. Click on <b><i>deploy</i></b> button to deploy the view
+11. Click on <b><i>deploy</i></b> button to deploy the view
   <br><br>![](../images/employee_view_10.png)
 
 
