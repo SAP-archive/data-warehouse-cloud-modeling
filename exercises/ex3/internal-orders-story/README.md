@@ -48,21 +48,44 @@
 16. **Expand the Vendor Product Category Hierarchy** and check result as the following
   <br><br>![](../images/internal_orders_story_18.png)
 
-16. **Expand the Vendor Product Category Hierarchy** and check result as the following
+16. Click on **Data** from the toolbar
   <br><br>![](../images/internal_orders_story_19.png)
-  
+
+17. Click on **Add New Data**
   <br><br>![](../images/internal_orders_story_20.png)
 
-17. ...
+17. Click on _Data from a data source_.
   <br><br>![](../images/internal_orders_story_21.png)
+
+18. Select _SAP Data Warehouse Cloud_ as a source.
   <br><br>![](../images/internal_orders_story_22.png)
+
+19. Select the configured connection.
   <br><br>![](../images/internal_orders_story_23.png)
+
+20. Select your working space.
   <br><br>![](../images/internal_orders_story_24.png)
+  
+21. Select the model **V_MY_INTERNAL_ORDERS**
   <br><br>![](../images/internal_orders_story_25.png)
+  
+22. Return to the story by clicking on the **Story** button from the toolbar.
   <br><br>![](../images/internal_orders_story_26.png)
+  
+23. Add a new _Table_.
   <br><br>![](../images/internal_orders_story_27.png)
+
+24. Make sure that the new data source **V_MY_INTERNAL_ORDERS** is selected.
   <br><br>![](../images/internal_orders_story_28.png)
+
+25. Add the column **COMPANYCODE** from the section _Rows_ 
   <br><br>![](../images/internal_orders_story_29.png)
+
+26. Click _Save_ to save the story.
   <br><br>![](../images/internal_orders_story_30.png)
+
+27. Enter the story name **S_INTERNAL_ORDERS**
   <br><br>![](../images/internal_orders_story_31.png)
+
+28. The end result should look like the following:
   <br><br>![](../images/internal_orders_story_32.png)
