@@ -50,8 +50,6 @@
   <br><br>![](../images/internal_orders_story_18.png)
 
 17. ...
-  <br><br>![](../images/internal_orders_story_19.png)
-  <br><br>![](../images/internal_orders_story_20.png)
   <br><br>![](../images/internal_orders_story_21.png)
   <br><br>![](../images/internal_orders_story_22.png)
   <br><br>![](../images/internal_orders_story_23.png)
