@@ -78,7 +78,8 @@
 24. Make sure that the new data source **V_MY_INTERNAL_ORDERS** is selected.
   <br><br>![](../images/internal_orders_story_28.png)
 
-25. Add the column **COMPANYCODE** from the section _Rows_ 
+25. Add the column **COMPANYCODE** in the section _Rows_.
+  In the table, you should be able to see records for the company code **9004** only.
   <br><br>![](../images/internal_orders_story_29.png)
 
 26. Click _Save_ to save the story.
