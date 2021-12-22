@@ -24,7 +24,9 @@
   <br><br>![](../images/employee_view_06.png)
 8. Selct the _Output_ Node and click on _Edit_ button of the _Attributes_ section.
   <br><br>![](../images/employee_view_07.png)
-10. Set the  
+10. Adjust the following properties:
+  - FULL_NAME, set semantic to **TEXT**
+  - EMPLOYEEID, set the label to **FULL_NAME**.    
   <br><br>![](../images/employee_view_08.png)
 12. Select the Output Node in the canvas and click on <b>Data Preview</b> from the context menu
     <br><br>![](../images/employee_view_09.png)
