@@ -79,7 +79,7 @@
   <br><br>![](../images/internal_orders_story_28.png)
 
 25. Add the column **COMPANYCODE** in the section _Rows_.
-  In the table, you should be able to see records for the company code **9004** only.
+  In the table, you should be able to see records for the company code **9004** only, since the underlying data model **V_MY_INTERNAL_ORDERS** is restriced with a _Data Access Control_.
   <br><br>![](../images/internal_orders_story_29.png)
 
 26. Click _Save_ to save the story.
