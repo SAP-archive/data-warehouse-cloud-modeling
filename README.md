@@ -88,7 +88,7 @@ https://blogs.sap.com/2021/08/25/introduction-to-analytics-designer-developer-ha
 
 
 [<h2>Exercise 3 - Internal Orders</h2>](exercises/ex3/)  
-- [**Exercise 3.1 - Create Employee Data Flow**](/exercises/ex3/employees-dataflow) :new:
+- [**Exercise 3.1 - Create Employee Data Flow**](/exercises/ex3/employees-dataflow) :star:
    - Data Flow
 - [**Exercise 3.2 - Create Employee View**](/exercises/ex3/employees-view)
    - Parent Child Hierarchy (Internal)
