@@ -40,6 +40,8 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
 - https://www.sap.com/products/data-warehouse-cloud/trial.html
 - https://saphanajourney.com/data-warehouse-cloud/trial/
 
+Please note that the trial version does not provide all available features. Especially the more advanced exercises (e.g. Dataflow) can only be applied with full SAP DWC licence only. For more detailed information about the trial limiation and restriction, please refer to SAP note [3007887](https://launchpad.support.sap.com/#/notes/3007887).
+
 
 
 ### SAP Analytics Cloud
