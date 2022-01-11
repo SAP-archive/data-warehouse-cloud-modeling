@@ -1,5 +1,7 @@
 # Setup _Open Sql Schema_ 
 
+https://help.sap.com/viewer/9f804b8efa8043539289f42f372c4862/cloud/en-US/9ad0ddae9d8248ebb070b1dedd38eba6.html
+
 1. Navigate to the _Space Management_ 
   <br><br>![](../images/open_sql_00.png)
 3. 
