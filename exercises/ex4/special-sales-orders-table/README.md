@@ -7,9 +7,7 @@
 	<br><br>![](../images/special_sales_orders_02.png)
 
 5. Right click on the database _catalog_ and click on _Open SQL Console_ from the context menu.
-
 	<br><br>![](../images/special_sales_orders_03.png)
-
 
 6. Enter the following SQL DDL statement to create a database table for the special sales. 
 	```
