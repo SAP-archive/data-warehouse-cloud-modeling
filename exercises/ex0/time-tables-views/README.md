@@ -1,7 +1,7 @@
 # Generate <i>Time</i> Tables and Views
 The generation of the Time Tables and Views needs be applied only <b>once</b> per space. The generated views can be reused by all other models within the same space.
 
-1. Navigate to the Space Management
+1. Navigate to the _Space Management_
 2. Select the section <b><i>Time Data</i></b>.
 3. Click on <b><i>Create Time Tables and Dimensions</i></b>
   <br>![](../images/create_time_dimension_01.png)
