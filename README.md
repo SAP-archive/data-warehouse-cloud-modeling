@@ -128,7 +128,7 @@ https://blogs.sap.com/2021/08/25/introduction-to-analytics-designer-developer-ha
    - [Exercise 4.3.2 - Create Cost Center Dataflow](/exercises/ex4/costcenter-dataflow)
    - [Exercise 4.3.3 - Cost Center View](/exercises/ex4/costcenter-view) 
    - Share Cost Center View to other Spaces 
-- [**Exercise 4.3 - Download data from Data Market Place**](/exercises/ex4/data-market-place) :construction::construction::construction:
+- [**Exercise 4.4 - Download data from Data Market Place**](/exercises/ex4/data-market-place) :construction::construction::construction:
 
 
 
