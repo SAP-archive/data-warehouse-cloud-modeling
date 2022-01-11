@@ -115,7 +115,8 @@ https://blogs.sap.com/2021/08/25/introduction-to-analytics-designer-developer-ha
 
 
 [<h2>Exercise 4 - External Data</h2>](exercises/ex4/):construction::construction::construction:
-- [**Exercise 4.1 - Create a Database Access User**](/exercises/ex4/open-sql-schema)
+- [**Exercise 4.1 - Pulling data via Connections**](/exercises/ex4/connection)
+- [**Exercise 4.2 - Pushing data via Database Access User**](/exercises/ex4/open-sql-schema)
    - Database Access User
    - Open SQL Schema  
 - [**Exercise 4.1 - Create Cost Center Dataflow**](/exercises/ex4/costcenter-dataflow)
