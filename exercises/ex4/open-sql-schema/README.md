@@ -1,4 +1,4 @@
-# Setup _Open SQL Schema_ 
+# Create _Database Access_ 
 
 https://help.sap.com/viewer/9f804b8efa8043539289f42f372c4862/cloud/en-US/9ad0ddae9d8248ebb070b1dedd38eba6.html
 
