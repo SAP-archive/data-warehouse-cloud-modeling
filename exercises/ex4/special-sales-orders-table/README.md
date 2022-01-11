@@ -1,6 +1,7 @@
 
 <br><br>![](../images/special_sales_orders_01.png)
-<br><br>![](../images/special_sales_orders_04.png)
+<br><br>![](../images/special_sales_orders_02.png)
+<br><br>![](../images/special_sales_orders_03.png)
 
 
 
@@ -19,6 +20,11 @@ create column table T_SPECIAL_SALES_ORDERS(
 	PRIMARY KEY (SALESORDERID, SALESITEM)
 )
 ```
+<br><br>![](../images/special_sales_orders_04.png)
+<br><br>![](../images/special_sales_orders_05.png)
+<br><br>![](../images/special_sales_orders_06.png)
+<br><br>![](../images/special_sales_orders_07.png)
+
 
 <br><br>![](../images/open_sql_09.png)
 <br><br>![](../images/open_sql_10.png)
