@@ -120,7 +120,9 @@ https://blogs.sap.com/2021/08/25/introduction-to-analytics-designer-developer-ha
    - Database Access User
    - Open SQL Schema  
    - [Exercise 4.2.1 - Create Special Sales Orders Table](/exercises/ex4/special-sales-orders-table)
+      - Database Explorer 
    - [Exercise 4.2.2 - Extend Sales Orders View](/exercises/ex4/sales-orders-union)
+      - Union Node
 - [**Exercise 4.1 - Sharing data from other Spaces**](/exercises/ex4/connection) :construction::construction::construction:
 - [**Exercise 4.1 - Create Cost Center Dataflow**](/exercises/ex4/costcenter-dataflow)
    - Data Flow 
