@@ -25,7 +25,7 @@ create column table T_SPECIAL_SALES_ORDERS(
 
 ```
 insert into T_SPECIAL_SALES_ORDERS values(	
-	700000001, '10','2021-01-01', '100000014', 'HB-1173', '5', '3333', '3777', '444', 'USD'
+	700000001, '10','2020-01-01', '100000014', 'HB-1173', '5', '3333', '3777', '444', 'USD'
 )
 ```
 <br><br>![](../images/special_sales_orders_06.png)
