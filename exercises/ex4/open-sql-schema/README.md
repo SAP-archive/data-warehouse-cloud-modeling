@@ -5,7 +5,7 @@
 > <br><br>
 > SAP Data Warehouse Cloud comes by default with a preconfigured SAP HANA Cloud database, on which the repository for all created models resides.
 However, that repository is strictly protected and completely managed by SAP system only. <br><br>
-> In order to **write data** into the underlying database, we have to create a dedicated _**Database Access User**_ and a database schema (**_Open SQL Schema_**), which is fully isolated and independent from the SAP managed repository. The database schema can be used to apply database operations and SQL commands. It can be accessed with the preinstalled _SAP HANA Database Explorer_ or any third party tool (e.g. the open source database client _DBeaver_).
+> In order to **write data** into the underlying database, we have to create a dedicated _**Database Access User**_ and a database schema (**_Open SQL Schema_**), which is fully isolated and independent from the SAP managed repository. Then, the database schema can be used to apply database operations and SQL commands. It can be accessed with the preinstalled _SAP HANA Database Explorer_ or any third party tool (e.g. the open source database client _DBeaver_).
 > <br><br>
 > For more information plese refer to [SAP Help documentation](https://help.sap.com/viewer/9f804b8efa8043539289f42f372c4862/cloud/en-US/9ad0ddae9d8248ebb070b1dedd38eba6.html).
 
