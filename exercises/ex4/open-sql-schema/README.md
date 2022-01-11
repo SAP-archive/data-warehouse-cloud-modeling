@@ -8,7 +8,7 @@ That repository is strictly protected and completely managed by SAP system only.
 
 1. Navigate to the _Space Management_ 
   <br><br>![](../images/open_sql_00.png)
-2. Navigate to the _Database Access_ section and create a new databse user.
+2. Navigate to the _Database Access_ section and create a new database user.
   <br><br>![](../images/open_sql_01.png)
 3. In the database user dialog please maintain the following fields:
   - Database User Name Suffix (in my example it's _SAN_).
