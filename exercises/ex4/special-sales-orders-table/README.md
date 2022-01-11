@@ -2,7 +2,8 @@
 1. Navigate to the _Space Management_
 2. Navigate to the _Database Access_ section
 3. Select your created database user and click on _Open Database Explorer_  
-	<br><br>![](../images/special_sales_orders_01.png)
+	<br>![](../images/special_sales_orders_01.png)
+	
 4. Enter the user credentials and check the parameter _Save Password (saved in SAP HANA secure store)
 	<br><br>![](../images/special_sales_orders_02.png)
 
