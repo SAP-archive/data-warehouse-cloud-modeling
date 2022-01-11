@@ -8,8 +8,9 @@ That repository is strictly protected and completely managed by SAP system only.
 
 1. Navigate to the _Space Management_ 
   <br><br>![](../images/open_sql_00.png)
+2. Navigate to the _Database Access_ section and create a new databse user.
+  <br><br>![](../images/open_sql_01.png)
 3. 
-<br><br>![](../images/open_sql_01.png)
 <br><br>![](../images/open_sql_02.png)
 <br><br>![](../images/open_sql_03.png)
 <br><br>![](../images/open_sql_04.png)
