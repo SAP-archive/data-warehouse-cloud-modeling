@@ -1,4 +1,8 @@
 # Create _Database Access_ 
+SAP Data Warehouse Cloud comes by default with a preconfigured SAP HANA Database, on which the repository for all created models resides.
+
+
+
 
 https://help.sap.com/viewer/9f804b8efa8043539289f42f372c4862/cloud/en-US/9ad0ddae9d8248ebb070b1dedd38eba6.html
 
