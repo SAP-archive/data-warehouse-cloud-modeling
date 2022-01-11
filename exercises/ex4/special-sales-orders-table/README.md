@@ -11,7 +11,7 @@
 	<br><br>![](../images/special_sales_orders_03.png)
 
 
-6. Enter the following SQL DDL Statement to create a database table for the special sales:
+6. Enter the following SQL DDL statement to create a database table for the special sales. Run the SQL statement. 
 	```
 	create column table T_SPECIAL_SALES_ORDERS(
 		SALESORDERID bigint, 
@@ -29,7 +29,7 @@
 	```
 	<br><br>![](../images/special_sales_orders_04.png)
 	
-	
+7. 	
 <br><br>![](../images/special_sales_orders_05.png)
 
 ```
