@@ -1,20 +1,23 @@
 
 <br><br>![](../images/special_sales_orders_01.png)
+<br><br>![](../images/special_sales_orders_04.png)
 
 
 
 ```
-	create column table T_SPECIAL_ORDER(
-		INTERNALORDERID int primary key, 
-		CREATE_DAT date, 
-		COMPANYCODE varchar(4),
-		COSTCENTER varchar(6),
-		PRODUCTID varchar(9),
-		QUANTITY int,
-		NETAMOUNT decimal(38,19),
-		CURRENCY varchar(3),
-		COMPANYCODE_COSTCENTER varchar(10)
-	)
+create column table T_SPECIAL_SALES_ORDERS(
+	SALESORDERID bigint, 
+	SALESITEM bigint,
+	CREATEDAT date, 
+	PARTNERID bigint,
+	PRODUCTID varchar(5000),
+	QUANTITY int,
+	NETAMOUNT decimal(38,19),
+	GROSSAMOUNT decimal(38,19),
+	TAXAMOUNT decimal(38,19),
+	CURRENCY varchar(5000),
+	PRIMARY KEY (SALESORDERID, SALESITEM)
+)
 ```
 
 <br><br>![](../images/open_sql_09.png)
