@@ -123,18 +123,23 @@ https://blogs.sap.com/2021/08/25/introduction-to-analytics-designer-developer-ha
       - Database Explorer 
    - [Exercise 4.2.2 - Extend Sales Orders View](/exercises/ex4/sales-orders-union)
       - Union Node
-- [**Exercise 4.1 - Sharing data from other Spaces**](/exercises/ex4/connection) :construction::construction::construction:
-- [**Exercise 4.1 - Create Cost Center Dataflow**](/exercises/ex4/costcenter-dataflow)
-   - Data Flow 
-- [**Exercise 4.2 - Cost Center View**](/exercises/ex4/costcenter-view)
-- [**Exercise 4.3 - Create Special Orders Table**](/exercises/ex4/special-orders-table)
-   - Open SQL Schema
-   - HANA Database Explorer
-- [**Exercise 4.4 - Extend Internal Orders View**](/exercises/ex4/internal-special-orders-view)
-   - Union Node
+- [**Exercise 4.3 - Sharing data between Spaces**](/exercises/ex4/connection) :construction::construction::construction:
+   - Create a Master Data Space
+   - [Exercise 4.3.2 - Create Cost Center Dataflow](/exercises/ex4/costcenter-dataflow)
+   - [Exercise 4.3.3 - Cost Center View](/exercises/ex4/costcenter-view) 
+   - Share Cost Center View to other Spaces 
+
+
+
+
 
 [<h2>Exercises in Pipeline</h2>](exercises/ex4/):construction::construction::construction:
 > **Lessons**: Time Dependency
+- [**Exercise 5.1 - Create Special Orders Table**](/exercises/ex4/special-orders-table)
+   - Open SQL Schema
+   - HANA Database Explorer
+- [**Exercise 5.2 - Extend Internal Orders View**](/exercises/ex4/internal-special-orders-view)
+   - Union Node
 - Exercise - Create Entity Relationship Model (ERM) - :construction::construction::construction:
    - Associations
    - Text Associations
