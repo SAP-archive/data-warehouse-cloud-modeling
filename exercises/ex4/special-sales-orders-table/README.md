@@ -23,23 +23,20 @@ create column table T_SPECIAL_SALES_ORDERS(
 <br><br>![](../images/special_sales_orders_04.png)
 <br><br>![](../images/special_sales_orders_05.png)
 <br><br>![](../images/special_sales_orders_06.png)
+
+```
+insert into T_SPECIAL_SALES_ORDERS values(	
+	700000001, '10','2021-01-01', '100000014', 'HB-1173', '5', '3333', '3777', '444', 'USD'
+)
+```
 <br><br>![](../images/special_sales_orders_07.png)
 
 
-<br><br>![](../images/open_sql_09.png)
-<br><br>![](../images/open_sql_10.png)
+<br><br>![](../images/special_sales_orders_08.png)
+<br><br>![](../images/special_sales_orders_09.png)
 
 ```
-insert into T_SPECIAL_ORDER values(	
-	800000001, '2021-01-01', '9004', 'C01004', 
-	'SPECIAL', 1, 400, 'EUR', '9004C01004' 
-)
+select * from T_SPECIAL_SALES_ORDERS
 ```
-
-<br><br>![](../images/open_sql_11.png)
-
-```
-select * from T_SPECIAL_ORDER
-```
-<br><br>![](../images/open_sql_12.png)
-<br><br>![](../images/open_sql_13.png)
+<br><br>![](../images/special_sales_orders_10.png)
+<br><br>![](../images/special_sales_orders_11.png)
