@@ -10,7 +10,11 @@ That repository is strictly protected and completely managed by SAP system only.
   <br><br>![](../images/open_sql_00.png)
 2. Navigate to the _Database Access_ section and create a new databse user.
   <br><br>![](../images/open_sql_01.png)
-3. 
+3. In the database user dialog please maintain the following fields:
+  - Database User Name Suffix (in my example it's _SAN_).
+  - Enable Read Access (SQL)
+  - Allow user to grant read access to other users with Grant Options
+  - Enable Write Access (SQL, DLL & DML)
 <br><br>![](../images/open_sql_02.png)
 <br><br>![](../images/open_sql_03.png)
 <br><br>![](../images/open_sql_04.png)
