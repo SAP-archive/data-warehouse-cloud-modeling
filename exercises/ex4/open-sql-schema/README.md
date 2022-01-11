@@ -15,7 +15,11 @@ That repository is strictly protected and completely managed by SAP system only.
   - Enable Read Access (SQL)
   - Allow user to grant read access to other users with Grant Options
   - Enable Write Access (SQL, DLL & DML)
-<br><br>![](../images/open_sql_02.png)
-<br><br>![](../images/open_sql_03.png)
-<br><br>![](../images/open_sql_04.png)
-<br><br>![](../images/open_sql_05.png)
+  <br><br>![](../images/open_sql_02.png)
+
+4. A new database user should be generated and listed 
+  <br><br>![](../images/open_sql_03.png)
+
+5. The database URL and user credentials can be grabbed by clicking on the _Info_ button
+  <br><br>![](../images/open_sql_04.png)
+  <br><br>![](../images/open_sql_05.png)
