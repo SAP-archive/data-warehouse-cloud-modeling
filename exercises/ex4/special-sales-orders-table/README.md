@@ -8,7 +8,7 @@
 ```
 create column table T_SPECIAL_SALES_ORDERS(
 	SALESORDERID bigint, 
-	SALESITEM bigint,
+	SALESORDERITEM bigint,
 	CREATEDAT date, 
 	PARTNERID bigint,
 	PRODUCTID varchar(5000),
@@ -17,7 +17,7 @@ create column table T_SPECIAL_SALES_ORDERS(
 	GROSSAMOUNT decimal(38,19),
 	TAXAMOUNT decimal(38,19),
 	CURRENCY varchar(5000),
-	PRIMARY KEY (SALESORDERID, SALESITEM)
+	PRIMARY KEY (SALESORDERID, SALESORDERITEM)
 )
 ```
 <br><br>![](../images/special_sales_orders_04.png)
