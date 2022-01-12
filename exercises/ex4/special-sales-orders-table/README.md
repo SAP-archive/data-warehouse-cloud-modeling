@@ -1,3 +1,4 @@
+# Create a new table for _Special Sales Orders_
 
 1. Navigate in the _Space Management_ to the _Database Access_ section.
 2. Select your created database user and click on _Open Database Explorer_  
