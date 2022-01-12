@@ -1,3 +1,5 @@
+# Extend the Sales Orders View _V_SALES_ORDERS_
+
 1. Navigate to the Repostiory Explorer.
 
 2. Search and open the View **_V_SALES_ORDERS_**.
