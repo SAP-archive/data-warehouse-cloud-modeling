@@ -1,4 +1,5 @@
-1. Navigate to the Repostiory Explorer and search for the View **V_SALES_ORDERS**
+1. Navigate to the Repostiory Explorer.
+2. Search and open the View **_V_SALES_ORDERS_**
 <br><br>![](../images/sales_orders_union_01.png)
 <br><br>![](../images/sales_orders_union_01c.png)
 <br><br>![](../images/sales_orders_union_02.png)
