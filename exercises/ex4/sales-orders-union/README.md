@@ -1,4 +1,4 @@
-# Extend the Sales Orders View _V_SALES_ORDERS_
+# Extend Sales Orders View _V_SALES_ORDERS_
 
 1. Navigate to the Repostiory Explorer.
 
