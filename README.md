@@ -115,29 +115,22 @@ https://blogs.sap.com/2021/08/25/introduction-to-analytics-designer-developer-ha
 
 
 [<h2>Exercise 4 - Getting more data</h2>](exercises/ex4/):construction::construction::construction:
--  [**Exercise 4.1 - Extend Sales Order View**](/exercises/ex4/open-sql-schema)
-   - [Exercise 4.2.1 - Create Database Access User and Open SQL Schema](/exercises/ex4/open-sql-schema)
+- **Exercise 4.1 - Extend Sales Order View**
+   - [Exercise 4.1.1 - Create Database Access User and Open SQL Schema](/exercises/ex4/open-sql-schema)
       - Database Access User
       - Open SQL Schema 
-   - [Exercise 4.2.2 - Create Sales Order Table](/exercises/ex4/special-sales-orders-table)   
+   - [Exercise 4.1.2 - Create Sales Order Table](/exercises/ex4/special-sales-orders-table)   
       - Database Explorer  
-   - [Exercise 4.2.3 - Adjust the Sales Order View](/exercises/ex4/sales-orders-union)
+   - [Exercise 4.1.3 - Adjust the Sales Order View](/exercises/ex4/sales-orders-union)
       - Union Node   
-- [**Exercise 4.1 - Pulling data via Connections**](/exercises/ex4/connection) :construction::construction::construction:
-- [**Exercise 4.2 - Pushing data via Database Access User**](/exercises/ex4/open-sql-schema)
-   - Database Access User
-   - Open SQL Schema  
-   - [Exercise 4.2.1 - Create Special Sales Orders Table](/exercises/ex4/special-sales-orders-table)
-      - Database Explorer 
-   - [Exercise 4.2.2 - Extend Sales Orders View](/exercises/ex4/sales-orders-union)
-      - Union Node
-   - [Exercise 4.2.3 - Use 3rd party database client](/exercises/ex4/3rd-party-db-client)
-- [**Exercise 4.3 - Sharing data between Spaces**](/exercises/ex4/connection) :construction::construction::construction:
+   - [Exercise 4.1.4 - Use 3rd party database client](/exercises/ex4/3rd-party-db-client)
+- [**Exercise 4.2 - Sharing data between Spaces**](/exercises/ex4/connection) :construction::construction::construction:
    - Create a Master Data Space
-   - [Exercise 4.3.2 - Create Cost Center Dataflow](/exercises/ex4/costcenter-dataflow)
-   - [Exercise 4.3.3 - Cost Center View](/exercises/ex4/costcenter-view) 
+   - [Exercise 4.2.2 - Create Cost Center Dataflow](/exercises/ex4/costcenter-dataflow)
+   - [Exercise 4.2.3 - Cost Center View](/exercises/ex4/costcenter-view) 
    - Share Cost Center View to other Spaces 
-- [**Exercise 4.4 - Download data from Data Market Place**](/exercises/ex4/data-market-place) :construction::construction::construction:
+- [**Exercise 4.3 - Download data from Data Market Place**](/exercises/ex4/data-market-place) :construction::construction::construction:
+- [**Exercise 4.4 - Pulling data via Connections**](/exercises/ex4/connection) :construction::construction::construction:
 
 
 
