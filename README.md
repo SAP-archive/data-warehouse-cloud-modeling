@@ -123,6 +123,7 @@ https://blogs.sap.com/2021/08/25/introduction-to-analytics-designer-developer-ha
       - Database Explorer 
    - [Exercise 4.2.2 - Extend Sales Orders View](/exercises/ex4/sales-orders-union)
       - Union Node
+   - [Exercise 4.2.3 - Use 3rd party database client](/exercises/ex4/3rd-party-db-client)
 - [**Exercise 4.3 - Sharing data between Spaces**](/exercises/ex4/connection) :construction::construction::construction:
    - Create a Master Data Space
    - [Exercise 4.3.2 - Create Cost Center Dataflow](/exercises/ex4/costcenter-dataflow)
