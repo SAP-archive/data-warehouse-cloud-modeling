@@ -18,7 +18,7 @@
 		CREATEDAT date, 
 		PARTNERID bigint,
 		PRODUCTID varchar(5000),
-		QUANTITY int,
+		QUANTITY bigint,
 		NETAMOUNT decimal(38,19),
 		GROSSAMOUNT decimal(38,19),
 		TAXAMOUNT decimal(38,19),
