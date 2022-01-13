@@ -119,7 +119,7 @@ https://blogs.sap.com/2021/08/25/introduction-to-analytics-designer-developer-ha
    - [Exercise 4.1.1 - Create Database Access User and Open SQL Schema](/exercises/ex4/open-sql-schema)
       - Database Access User
       - Open SQL Schema 
-   - [Exercise 4.1.2 - Create Sales Order Table](/exercises/ex4/special-sales-orders-table)   
+   - [Exercise 4.1.2 - Create a local Sales Order Table](/exercises/ex4/special-sales-orders-table)   
       - Database Explorer  
    - [Exercise 4.1.3 - Adjust the Sales Order View](/exercises/ex4/sales-orders-union)
       - Union Node   
