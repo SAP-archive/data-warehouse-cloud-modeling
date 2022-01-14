@@ -124,25 +124,26 @@ https://blogs.sap.com/2021/08/25/introduction-to-analytics-designer-developer-ha
    - [Exercise 4.1.3 - Adjust the Sales Order View](/exercises/ex4/sales-orders-union)
       - Union Node   
    - [Exercise 4.1.4 - Use 3rd party database client](/exercises/ex4/3rd-party-db-client)
+- [**Exercise 4.2 - Download data from Data Market Place**](/exercises/ex4/data-market-place) :construction::construction::construction:
+   - Download Sales Orders data from Data Market Place
+      - Data Market Place
+   - Adjust Sales Order View 
+- [**Exercise 4.3 - Create Sales Organization View**](/exercises/ex4/sales-organization-view) :construction::construction::construction:
+   - Create master data space
+   - Create Sales Organization View
+   - Share Sales Sales Organization View
+      - Cross Space Sharing 
+   - Adjust Sales Order View
 - [**Exercise 4.2 - Sharing data between Spaces**](/exercises/ex4/connection) :construction::construction::construction:
    - Create a Master Data Space
    - [Exercise 4.2.2 - Create Cost Center Dataflow](/exercises/ex4/costcenter-dataflow)
    - [Exercise 4.2.3 - Cost Center View](/exercises/ex4/costcenter-view) 
    - Share Cost Center View to other Spaces 
-- [**Exercise 4.3 - Download data from Data Market Place**](/exercises/ex4/data-market-place) :construction::construction::construction:
 - [**Exercise 4.4 - Pulling data via Connections**](/exercises/ex4/connection) :construction::construction::construction:
-
-
-
 
 
 [<h2>Exercises in Pipeline</h2>](exercises/ex4/):construction::construction::construction:
 > **Lessons**: Time Dependency
-- [**Exercise 5.1 - Create Special Orders Table**](/exercises/ex4/special-orders-table)
-   - Open SQL Schema
-   - HANA Database Explorer
-- [**Exercise 5.2 - Extend Internal Orders View**](/exercises/ex4/internal-special-orders-view)
-   - Union Node
 - Exercise - Create Entity Relationship Model (ERM) - :construction::construction::construction:
    - Associations
    - Text Associations
