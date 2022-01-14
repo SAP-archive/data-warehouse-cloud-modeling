@@ -114,8 +114,8 @@ https://blogs.sap.com/2021/08/25/introduction-to-analytics-designer-developer-ha
 
 
 
-[<h2>Exercise 4 - Getting more data</h2>](exercises/ex4/):construction::construction::construction:
-- **Exercise 4.1 - Extend Sales Order View**
+[<h2>Exercise 4 - Sales Orders Extension</h2>](exercises/ex4/):construction::construction::construction:
+- **Exercise 4.1 - Merge additional Sales Orders**
    - [Exercise 4.1.1 - Create Database Access User and Open SQL Schema](/exercises/ex4/open-sql-schema)
       - Database Access User
       - Open SQL Schema 
