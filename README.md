@@ -136,16 +136,16 @@ https://blogs.sap.com/2021/08/25/introduction-to-analytics-designer-developer-ha
    - [Exercise 4.3.4 - Share Sales Organization View](/exercises/ex4/share-sales-organization-view)
       - Cross Space Sharing 
    - [Exercise 4.3.4 - Adjust Sales Order View](/exercises/ex4/share-sales-organization-view)
+
+[<h2>Exercises in Pipeline</h2>](exercises/ex4/):construction::construction::construction:
+> **Lessons**: Time Dependency
+
 - [**Exercise 4.2 - Sharing data between Spaces**](/exercises/ex4/connection) :construction::construction::construction:
    - Create a Master Data Space
    - [Exercise 4.2.2 - Create Cost Center Dataflow](/exercises/ex4/costcenter-dataflow)
    - [Exercise 4.2.3 - Cost Center View](/exercises/ex4/costcenter-view) 
    - Share Cost Center View to other Spaces 
 - [**Exercise 4.4 - Pulling data via Connections**](/exercises/ex4/connection) :construction::construction::construction:
-
-
-[<h2>Exercises in Pipeline</h2>](exercises/ex4/):construction::construction::construction:
-> **Lessons**: Time Dependency
 - Exercise - Create Entity Relationship Model (ERM) - :construction::construction::construction:
    - Associations
    - Text Associations
