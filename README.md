@@ -135,7 +135,7 @@ https://blogs.sap.com/2021/08/25/introduction-to-analytics-designer-developer-ha
    - [Exercise 4.3.3 - Create Sales Organization View](/exercises/ex4/sales-organization-view)
    - [Exercise 4.3.4 - Share Sales Organization View](/exercises/ex4/share-sales-organization-view)
       - Cross Space Sharing 
-   - [Exercise 4.3.4 - Adjust Sales Order View](/exercises/ex4/share-sales-organization-view)
+   - [Exercise 4.3.5 - Adjust Sales Order View](/exercises/ex4/sales-orders-sales-organization)
 
 [<h2>Exercises in Pipeline</h2>](exercises/ex4/):construction::construction::construction:
 > **Lessons**: Time Dependency
