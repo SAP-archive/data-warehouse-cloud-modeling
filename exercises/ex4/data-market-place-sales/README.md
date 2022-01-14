@@ -1,1 +1,1 @@
-<br><br>![](../images/data_market_place_01.png)
+<br><br>![](../images/datamarketplace_01.png)
