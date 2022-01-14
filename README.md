@@ -115,7 +115,7 @@ https://blogs.sap.com/2021/08/25/introduction-to-analytics-designer-developer-ha
 
 
 [<h2>Exercise 4 - Sales Orders Extension</h2>](exercises/ex4/):construction::construction::construction:
-- **Exercise 4.1 - Merge additional Sales Orders**
+- **Exercise 4.1 - Get data from Open SQL Schema**
    - [Exercise 4.1.1 - Create Database Access User and Open SQL Schema](/exercises/ex4/open-sql-schema)
       - Database Access User
       - Open SQL Schema 
@@ -129,12 +129,13 @@ https://blogs.sap.com/2021/08/25/introduction-to-analytics-designer-developer-ha
       - Data Market Place
    - [Exercise 4.2.2 - Create Sample Data View](/exercises/ex4/data-market-place-sample-data-view)
    - [Exercise 4.2.3 - Update Sales Orders View with Sample data](/exercises/ex4/data-market-place-update-sales-view)
-- **Exercise 4.3 - Create Sales Organization View** :construction::construction::construction:
+- **Exercise 4.3 - Share data from other spaces** :construction::construction::construction:
    - [Exercise 4.3.1 - Create Master Data Space](/exercises/ex4/master-data-space)
-   - Create Sales Organization View
-   - Share Sales Sales Organization View
+   - [Exercise 4.3.2 - Upload Region CSV File](/exercises/ex4/region-data-upload)
+   - [Exercise 4.3.3 - Create Sales Organization View](/exercises/ex4/sales-organization-view)
+   - [Exercise 4.3.4 - Share Sales Organization View](/exercises/ex4/share-sales-organization-view)
       - Cross Space Sharing 
-   - Adjust Sales Order View
+   - [Exercise 4.3.4 - Adjust Sales Order View](/exercises/ex4/share-sales-organization-view)
 - [**Exercise 4.2 - Sharing data between Spaces**](/exercises/ex4/connection) :construction::construction::construction:
    - Create a Master Data Space
    - [Exercise 4.2.2 - Create Cost Center Dataflow](/exercises/ex4/costcenter-dataflow)
