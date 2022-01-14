@@ -125,7 +125,7 @@ https://blogs.sap.com/2021/08/25/introduction-to-analytics-designer-developer-ha
       - Union Node   
    - [Exercise 4.1.4 - Use 3rd party database client](/exercises/ex4/3rd-party-db-client)
 - **Exercise 4.2 - Get data from Data Market Place** :construction::construction::construction:
-   - [Exercise 4.2.1 - Download Sales Orders data from Data Market Place](/exercises/ex4/data-market-place-sample-data-download)
+   - [Exercise 4.2.1 - Download Sample Data in the Data Market Place](/exercises/ex4/data-market-place-sample-data-download)
       - Data Market Place
    - [Exercise 4.2.2 - Create Data Market Place Sales Orders View](/exercises/ex4/data-market-place-sales)
    - Adjust Sales Order View 
