@@ -133,7 +133,7 @@ https://blogs.sap.com/2021/08/25/introduction-to-analytics-designer-developer-ha
    - [Exercise 4.3.1 - Create Master Data Space](/exercises/ex4/master-data-space)
    - [Exercise 4.3.2 - Upload Region CSV File](/exercises/ex4/region-data-upload)
    - [Exercise 4.3.3 - Create Sales Organization View](/exercises/ex4/sales-organization-view)
-   - [Exercise 4.3.4 - Share Sales Organization View](/exercises/ex4/share-sales-organization-view)
+   - [Exercise 4.3.4 - Share Sales Organization View](/exercises/ex4/sales-organization-view-share)
       - Cross Space Sharing 
    - [Exercise 4.3.5 - Adjust Sales Order View](/exercises/ex4/sales-orders-sales-organization)
 
