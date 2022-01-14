@@ -129,7 +129,7 @@ https://blogs.sap.com/2021/08/25/introduction-to-analytics-designer-developer-ha
       - Data Market Place
    - [Exercise 4.2.2 - Create Sample Data View](/exercises/ex4/data-market-place-sample-data-view)
    - [Exercise 4.2.3 - Update Sales Orders View with Sample data](/exercises/ex4/data-market-place-update-sales-view)
-- **Exercise 4.3 - Share data from other spaces** :construction::construction::construction:
+- **Exercise 4.3 - Get data from Shared Spaces** :construction::construction::construction:
    - [Exercise 4.3.1 - Create Master Data Space](/exercises/ex4/master-data-space)
    - [Exercise 4.3.2 - Upload Region CSV File](/exercises/ex4/region-data-upload)
    - [Exercise 4.3.3 - Create Sales Organization View](/exercises/ex4/sales-organization-view)
