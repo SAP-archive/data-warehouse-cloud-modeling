@@ -124,7 +124,7 @@ https://blogs.sap.com/2021/08/25/introduction-to-analytics-designer-developer-ha
    - [Exercise 4.1.3 - Adjust the Sales Order View](/exercises/ex4/sales-orders-union)
       - Union Node   
    - [Exercise 4.1.4 - Use 3rd party database client](/exercises/ex4/3rd-party-db-client)
-- [**Exercise 4.2 - Download data from Data Market Place**](/exercises/ex4/data-market-place) :construction::construction::construction:
+- [**Exercise 4.2 - Download Sales Orders data from Data Market Place**](/exercises/ex4/data-market-place) :construction::construction::construction:
    - Download Sales Orders data from Data Market Place
       - Data Market Place
    - Adjust Sales Order View 
