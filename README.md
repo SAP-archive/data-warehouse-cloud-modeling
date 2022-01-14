@@ -130,7 +130,7 @@ https://blogs.sap.com/2021/08/25/introduction-to-analytics-designer-developer-ha
    - [Exercise 4.2.2 - Create Data Market Place Sales Orders View](/exercises/ex4/data-market-place-sales-view)
    - Adjust Sales Order View 
 - **Exercise 4.3 - Create Sales Organization View** :construction::construction::construction:
-   - [Exercise 4.3.1 - Create Master_Data Space](/exercises/ex4/master-data-space)
+   - [Exercise 4.3.1 - Create Master Data Space](/exercises/ex4/master-data-space)
    - Create Sales Organization View
    - Share Sales Sales Organization View
       - Cross Space Sharing 
