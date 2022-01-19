@@ -14,7 +14,7 @@ In this exercise we will create our first View of type *Dimension*.
     - Technical Name: <b>V_BUSINESS_PARTNERS</b>
     - Semantic Usage: <b>Dimension</b>
     - Expose for Consumption: <b>ON</b>
-   <br><br>![](../images/create_business_partner_dimension_01.png)
+    <br><br>![](../images/create_business_partner_dimension_01.png)
    
 
 ### Join Node
@@ -31,17 +31,19 @@ In this exercise we will create our first View of type *Dimension*.
   <br><br>![](../images/create_business_partner_dimension_04.png)
 
 9. Adjust the _Join Type_ to **Inner Join**. 
-  >**Note**: Following Join Types are currently supported: Inner Join, Left Join, Right Join, Full Outer Join, Cross Join
+    >**Note**: Following Join Types are currently supported: Inner Join, Left Join, Right Join, Full Outer Join, Cross Join
   
-  <br><br>![](../images/create_business_partner_dimension_18.png)
+    <br>![](../images/create_business_partner_dimension_18.png)
 
 10. You can also set the join cardinality:
     - Exactly One (1)
     - One (0..1)
     - Many (*)
+    <br>
+    
+    >**Note**: The cardinality information is utilized in SAP HANA Cloud to optimize the query execution and for that also the overall performance.
   
-    The cardinality information is utilized in SAP HANA Cloud to optimize the query execution and for that also the overall performance.
-    <br><br>![](../images/create_business_partner_dimension_17.png)
+    <br>![](../images/create_business_partner_dimension_17.png)
 
 ### Projection Node
 With the projection node, you can exclude or restore columns from your model. Hence, they won't be available nor consumpable on the client side, such as SAP Analytics Cloud. 
