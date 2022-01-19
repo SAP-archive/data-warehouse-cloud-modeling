@@ -6,14 +6,14 @@ In this exercise we will apply Geo Spatial configuration on the view _**V_BUSINE
 2. Search and edit the view _**V_BUSINESS_PARTNERS**_
   <br><br>![](../images/create_business_partner_geospatial_01.png)
 
-3. Select the *Projection Node* and add a new **Calculation Node** from the context menu
+3. Select the *Projection Node* and add a new _Calculation Node_ from the context menu
   <br><br>![](../images/create_business_partner_geospatial_02.png)
-4. Add a new **Geo-Coordinates Column**.
+4. Add a new _Geo-Coordinates Column_.
   <br><br>![](../images/create_business_partner_geospatial_03.png)
 5. Adjust the Calculated Column as following:
     - Business Name: **LOCATION**
     - Technical Name: **LOCATION**
-    - Data Type: **hana.ST_GEOMETRY
+    - Data Type: **hana.ST_GEOMETRY**
     - Spatial Reference Identifier: **4326**
     - Latitude: **LATITUDE**
     - Longitude: **LONGITUDE** 
