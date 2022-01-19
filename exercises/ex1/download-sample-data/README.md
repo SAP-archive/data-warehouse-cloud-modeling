@@ -24,6 +24,7 @@ In this exercise, we will learn how to bring data into SAP Data Warehouse Cloud 
    - TCURF.csv (Currency Prefactors)
    - TCURV.csv (Currency Configurations)
    - TCURX.csv (Currency Precisions)
+   - TCURN.csv (Currency Notations)
    - SFLIGHT.csv (Flight Sample Dataset)
       
     ![https://github.com/d031182/reference-data-model-samples/tree/main/data/BIKE_SALES](/images/csv_test_data.png)
