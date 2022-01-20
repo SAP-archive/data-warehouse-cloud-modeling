@@ -2,6 +2,9 @@
 
 In this exercise, you're going to bring more data from different channels and merge / consolidate them with the Sales Order model.
 
+![](../images/data_ingestion.png)
+
+
 - What is the Order Volume per Employee?
 - What is the Order Volume per Product Category?
 - What is my own Order Volume?
