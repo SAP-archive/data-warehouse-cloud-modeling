@@ -20,8 +20,10 @@ While in the Pulling Data scenario the initiator is SAP Data Wareshouse Cloud it
 The Open SQL Schema will grant a database user with access rights to read and write into SAP HANA Cloud database. 
 By using the database user credential, you can access the schema with e.g. SAP HANA Database Explorer (which comes along with the SAP Data Warehouse Cloud delivery) or SAP Data Intelligence. With that you can execute standard SQL statements (DDL + DML), and integrate the artefacts later in the modeling.
 
-Here is is a blog on how to utilized the Open SQL Schema with SAP Data Intelligence to upsert a file:
-https://blogs.sap.com/2021/12/23/sap-data-intelligence-cloud-file-upsert-into-sap-data-warehouse-cloud/
+Here are some other examples, how you can utilize the Open SQL Schema for different scenarios:
+- [SAP Data Intelligence Cloud – File Upsert into SAP Data Warehouse Cloud](https://blogs.sap.com/2021/12/23/sap-data-intelligence-cloud-file-upsert-into-sap-data-warehouse-cloud/)
+- [HOW TO use the SAP Business Technology Platform to extend SAP Marketing Cloud with Predictive Scores](https://blogs.sap.com/2022/01/11/how-to-use-the-sap-business-technology-platform-to-extend-sap-marketing-cloud-with-predictive-scores/)
+
 
 And last but not least, you can use any 3rd party client (e.g. DBeaver) or ETL tool of your choice to push data to the system.
 
