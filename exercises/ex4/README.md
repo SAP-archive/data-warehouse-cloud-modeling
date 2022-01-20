@@ -16,8 +16,13 @@ This is the classic and standard way to ingest data in SAP Data Warehouse Cloud.
 ### Pushing data to Open SQL Schema
 The _Pushing Data_ approach is similar to _Pulling data_ approach. The main difference is the trigger point, who initiates the data load process. 
 While in the Pulling Data scenario the initiator is SAP Data Wareshouse Cloud itself by connecting to the source and read the data from it, whereas in the Pushing Data scenario, the initiator is an external client which **writes the data** into a dedicated persistence of SAP Data Warehouse Cloud: the _Open SQL Schema_.  
+
 The Open SQL Schema will grant a database user with access rights to read and write into SAP HANA Cloud database. 
-By using the database user credential, you can access the schema either with the Database Explorer (which comes along with the SAP Data Warehouse Cloud delivery) or with any other 3rd party client of your choice. With that you can execute standard SQL statements (DDL + DML), and integrate the artefacts later in the modeling.
+By using the database user credential, you can access the schema with e.g. SAP HANA Database Explorer (which comes along with the SAP Data Warehouse Cloud delivery) or SAP Data Intelligence. With that you can execute standard SQL statements (DDL + DML), and integrate the artefacts later in the modeling.
+Here is is a blog on how to utilized the Open SQL Schema with SAP Data Intelligence to upsert a file:
+https://blogs.sap.com/2021/12/23/sap-data-intelligence-cloud-file-upsert-into-sap-data-warehouse-cloud/
+
+And last but not least, you can use any 3rd party client (e.g. DBeaver) or ETL tool of your choice to push data to system.
 
 ### Sharing data from Spaces
 In general, in SAP Data Warehouse Cloud you can use _Spaces_ to isolate resources such as CPU, disc spaces, users and data by grouping them logically to the business needs.
