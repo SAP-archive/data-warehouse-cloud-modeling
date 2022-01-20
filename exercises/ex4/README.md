@@ -4,6 +4,8 @@ In this exercise, you're going to bring more data into the system and consolidat
 The classic way to ingest data is to **setup a connection with the data source** and afterwards to pull the data.
 In addition to that SAP Data Warehouse Cloud offers some more options, which covers different scenarios and needs, such as: 
 
+![](./images/data_ingestion.png)
+
 ### Pushing data to Open SQL Schema
 The _Pushing Data_ approach is similar to _Pulling data_ approach. The main difference is the trigger point, who initiates the data load process. 
 While in the Pulling Data scenario the initiator is SAP Data Wareshouse Cloud itself by connecting to the source and **reading the data** from it, whereas in the Pushing Data scenario, the initiator is an external client which **writes the data** into a dedicated persistence of SAP Data Warehouse Cloud: the _Open SQL Schema_.  
@@ -14,8 +16,6 @@ However, Spaces can also be used to share dedicated data and models to other spa
 
 ### Downloading data from Data Market Place
 The latest feature in SAP Data Warehouse Cloud is the Data Market Place, where partners and customers can offer data and models for download / purchase. For instance, that could be tailor made content for a specific industry or a market dataset which you require for your business scenario. The data market place allows you and others to exchange and monetize datasets, which can be easily integrated with your models in SAP Data Warehouse Cloud.
-
-![](./images/data_ingestion.png)
 
 In the following exercise we will cover all of these options and enrich the existing Sales Order model:
 
