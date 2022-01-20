@@ -2,7 +2,7 @@
 
 In this exercise, you're going to bring more data into the system and consolidate them with the Sales Orders.
 The classic way to ingest data is to **setup a connection with the data source** and afterwards to pull the data.
-In addition to that SAP Data Warehouse Cloud offers some more options, which covers different scenarios and needs, such as 
+In addition to that SAP Data Warehouse Cloud offers some more options, which covers different scenarios and needs, such as: 
 
 ### Pushing data to Open SQL Schema
 The _Pushing Data_ approach is similar to _Pulling data_ approach. The main difference is the trigger point, which initiates the data load process. 
