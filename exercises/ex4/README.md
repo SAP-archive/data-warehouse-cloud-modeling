@@ -9,7 +9,9 @@ In addition to that SAP Data Warehouse Cloud offers some more options, which cov
 Let's have a closer look into the options:
 
 ### Pulling data via Connection
-This is the classic and standard way to ingest data in SAP Data Warehouse Cloud. For that you can use the available connectors to your source systems and just pull the data in.
+This is the classic and standard way to ingest data in SAP Data Warehouse Cloud. For that you setup a connection to the source system and then just pull the data in. SAP Data Warehouse Cloud comes here with pre-shiped connectors and adaptors to SAP and Non-SAP sources. There is also an option to install your own connector in order to access a specific source.
+
+
 
 
 ### Pushing data to Open SQL Schema
