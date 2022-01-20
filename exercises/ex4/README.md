@@ -4,12 +4,14 @@ In this exercise, you're going to bring more data into the system and consolidat
 The classic way to ingest data is to **setup a connection with the data source** and afterwards to pull the data.
 In addition to that SAP Data Warehouse Cloud offers some more options, which covers different scenarios and needs, such as 
 
-**_Pushing data to Open SQL Schema_**
-The _Pushing Data_ approach is similar to _Pulling data_ approach. The main difference is the trigger point. 
-In the Pulling Data scenario, the initiator of the data load is SAP Data Wareshouse Cloud by **reading the data** from the source and replicating them, whereas in the Pushing Data scenario, the initiator is rather an external client which **writes the data** into a dedicated persistence of SAP Data Warehouse Cloud, the Open SQL Schema.  
+### Pushing data to Open SQL Schema
+The _Pushing Data_ approach is similar to _Pulling data_ approach. The main difference is the trigger point, which initiates the data load process. 
+While in the Pulling Data scenario the initiator is SAP Data Wareshouse Cloud by connecting to the source and **reading the data** from it, whereas in the Pushing Data scenario, the initiator is an external client which **writes the data** into a dedicated persistence of SAP Data Warehouse Cloud: the _Open SQL Schema_.  
 
-- **_Sharing data from Spaces_**
-- **_Downloading data from Data Market Place_**
+### Sharing data from Spaces
+
+### Downloading data from Data Market Place
+
 
 ![](./images/data_ingestion.png)
 
