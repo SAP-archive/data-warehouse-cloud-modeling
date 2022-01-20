@@ -22,7 +22,7 @@ By using the database user credential, you can access the schema with e.g. SAP H
 Here is is a blog on how to utilized the Open SQL Schema with SAP Data Intelligence to upsert a file:
 https://blogs.sap.com/2021/12/23/sap-data-intelligence-cloud-file-upsert-into-sap-data-warehouse-cloud/
 
-And last but not least, you can use any 3rd party client (e.g. DBeaver) or ETL tool of your choice to push data to system.
+And last but not least, you can use any 3rd party client (e.g. DBeaver) or ETL tool of your choice to push data to the system.
 
 ### Sharing data from Spaces
 In general, in SAP Data Warehouse Cloud you can use _Spaces_ to isolate resources such as CPU, disc spaces, users and data by grouping them logically to the business needs.
