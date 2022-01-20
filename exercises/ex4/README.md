@@ -1,6 +1,7 @@
 # Exercise 4 - Sales Orders Extension
 
-In this exercise, you're going to bring more data from different channels and merge / consolidate them with the Sales Order model.
+In this exercise, you're going to bring more data and consolidate them with the Sales Orders.
+For that you will learn about the different options such as _Pushing data to Open SQL Schema_, _Sharing data from Spaces_, _Downloading data from Data Market Place_.  
 
 ![](./images/data_ingestion.png)
 
