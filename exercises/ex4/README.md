@@ -6,12 +6,6 @@ For that you will learn about the different options such as _Pushing data to Ope
 ![](./images/data_ingestion.png)
 
 
-- What is the Order Volume per Employee?
-- What is the Order Volume per Product Category?
-- What is my own Order Volume?
-- What is the Sales Revenue per Location?
-
-
 [<h2>Exercise 4 - Sales Orders Extension</h2>](exercises/ex4/)
 - **Exercise 4.1 - Get data from Open SQL Schema**
    - [Exercise 4.1.1 - Create Database Access User and Open SQL Schema](/exercises/ex4/open-sql-schema)
