@@ -17,7 +17,7 @@ In general, in SAP Data Warehouse Cloud you can use _Spaces_ to isolate resource
 However, Spaces can also be used to share dedicated data and models to other spaces and make them available there. The shared data and models can be used, as if they were in the same space you are working. Hence, it is possible to reuse existing data and models from other spaces without the need of shifting and synchronizing data forth and back. A typical scenario is a central space for master data. The benefit is a much lower development effort and TCO. 
 
 ### Downloading data from Data Market Place
-The latest feature in SAP Data Warehouse Cloud is the Data Market Place, where partners and customers can offer data and models for download / purchase. For instance, that could be tailor made content for a specific industry or a market dataset which you require for your business scenario. The data market place allows you and others to exchange and monetize datasets, which can be easily integrated with your models in SAP Data Warehouse Cloud.
+The latest feature in SAP Data Warehouse Cloud is the Data Market Place, where SAP partners and customers can offer data and models for download / purchase. For instance, that could be tailor made content for a specific industry or a market dataset which you require for your business scenario. The data market place allows you and others to exchange and monetize datasets, which can be easily integrated with your models in SAP Data Warehouse Cloud.
 
 In the following exercise we will cover all of these options and enrich the existing Sales Order model:
 
