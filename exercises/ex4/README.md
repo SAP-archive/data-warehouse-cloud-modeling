@@ -1,3 +1,13 @@
+# Exercise 4 - Sales Orders Extension
+
+In this exercise, you're going to bring more data from different channels and merge / consolidate them with the Sales Order model.
+
+- What is the Order Volume per Employee?
+- What is the Order Volume per Product Category?
+- What is my own Order Volume?
+- What is the Sales Revenue per Location?
+
+
 [<h2>Exercise 4 - Sales Orders Extension</h2>](exercises/ex4/)
 - **Exercise 4.1 - Get data from Open SQL Schema**
    - [Exercise 4.1.1 - Create Database Access User and Open SQL Schema](/exercises/ex4/open-sql-schema)
