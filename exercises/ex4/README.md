@@ -25,8 +25,7 @@ However, Spaces can also be used to share dedicated data and models to other spa
 
 ### Downloading data from Data Market Place
 The latest feature in SAP Data Warehouse Cloud is the Data Market Place, where SAP partners and customers can offer data and models for download / purchase. For instance, that could be tailor made content for a specific industry or a market dataset which you require for your business scenario. The data market place allows you and others to exchange and monetize datasets, which can be easily integrated with your models in SAP Data Warehouse Cloud.
-
-For more information please checkout also the following blog:
+For more information on SAP Data Warehouse Cloud please checkout also the following blog:
 https://blogs.sap.com/2021/12/13/sap-data-warehouse-cloud-data-marketplace-an-overview/
 
 In the following exercise we will cover all of these options and enrich the existing Sales Order model:
