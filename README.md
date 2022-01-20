@@ -123,12 +123,12 @@ https://blogs.sap.com/2021/08/25/introduction-to-analytics-designer-developer-ha
    - [Exercise 4.1.3 - Adjust the Sales Order View](/exercises/ex4/sales-orders-union)
       - Union Node   
    - [Exercise 4.1.4 - Use 3rd party database client](/exercises/ex4/3rd-party-db-client) :construction::construction::construction:
-- **Exercise 4.2 - Get data from Data Market Place** :construction::construction::construction:
+- **Exercise 4.2 - Get data from Data Market Place** 
    - [Exercise 4.2.1 - Download Sample Data from the Data Market Place](/exercises/ex4/data-market-place-sample-data-download)
       - Data Market Place
    - [Exercise 4.2.2 - Create Sample Data View](/exercises/ex4/data-market-place-sample-data-view)
    - [Exercise 4.2.3 - Update Sales Orders View with Sample data](/exercises/ex4/data-market-place-update-sales-view)
-- **Exercise 4.3 - Get data from Shared Spaces** :construction::construction::construction:
+- **Exercise 4.3 - Get data from Shared Spaces** 
    - [Exercise 4.3.1 - Create Master Data Space](/exercises/ex4/master-data-space)
    - [Exercise 4.3.2 - Upload Region CSV File](/exercises/ex4/region-data-upload)
    - [Exercise 4.3.3 - Create Sales Organization View](/exercises/ex4/sales-organization-view)
