@@ -9,8 +9,9 @@ In addition to that SAP Data Warehouse Cloud offers some more options, which cov
 Let's have a closer look into the options:
 
 ### Pulling data via Connection
-This is the classic and standard way to ingest data in SAP Data Warehouse Cloud. For that you setup a connection to the source system and then just pull the data in. SAP Data Warehouse Cloud comes here with various connectors and adaptors to SAP and Non-SAP sources. There is also an option to install your own connector in order to access a specific source. Once the connection is set, you can choose between data federation (remote data access) or data replication.
-
+This is the classic and standard way to ingest data in SAP Data Warehouse Cloud. For that you setup a connection to the source system and then just pull the data in. SAP Data Warehouse Cloud comes here with various connectors and adaptors to SAP and Non-SAP sources. There is also an option to install your own connector in order to access a specific source. Once the connection is set, you can **read the data** from the source system in two different modes: 
+- data federation (remote data access): keep the data in the sources and access them remotely. This approach will lower the cost of operations, since you will not consume any additional disc space. However, please be aware of potential performance penalties and security.   
+- data replication: copy and transfer the data physically into SAP Data Warehouse Cloud. This approach will utilize the underlying disc space in SAP data warehouse cloud.  
 
 
 ### Pushing data to Open SQL Schema
