@@ -1,7 +1,15 @@
 # Exercise 4 - Sales Orders Extension
 
-In this exercise, you're going to bring more data and consolidate them with the Sales Orders.
-For that you will learn about the different options such as _Pushing data to Open SQL Schema_, _Sharing data from Spaces_, _Downloading data from Data Market Place_.  
+In this exercise, you're going to bring more data into the system and consolidate them with the Sales Orders.
+The classic way to ingest data is to **setup a connection with the data source** and afterwards to pull the data.
+In addition to that SAP Data Warehouse Cloud offers some more options, which covers different scenarios and needs, such as 
+
+**_Pushing data to Open SQL Schema_**
+The _Pushing Data_ approach is similar to _Pulling data_ approach. The main difference is the trigger point. 
+In the Pulling Data scenario, the initiator of the data load is SAP Data Wareshouse Cloud by **reading the data** from the source and replicating them, whereas in the Pushing Data scenario, the initiator is rather an external client which **writes the data** into a dedicated persistence of SAP Data Warehouse Cloud, the Open SQL Schema.  
+
+- **_Sharing data from Spaces_**
+- **_Downloading data from Data Market Place_**
 
 ![](./images/data_ingestion.png)
 
