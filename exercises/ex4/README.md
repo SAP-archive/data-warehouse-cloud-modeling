@@ -9,8 +9,11 @@ The _Pushing Data_ approach is similar to _Pulling data_ approach. The main diff
 While in the Pulling Data scenario the initiator is SAP Data Wareshouse Cloud itself by connecting to the source and **reading the data** from it, whereas in the Pushing Data scenario, the initiator is an external client which **writes the data** into a dedicated persistence of SAP Data Warehouse Cloud: the _Open SQL Schema_.  
 
 ### Sharing data from Spaces
+In general, in SAP Data Warehouse Cloud you can use _Spaces_ to isolate resources such as CPU, disc spaces, users and data by grouping them logically to the business needs.
+However, Spaces can also be used to share dedicated data and models to other spaces and make them available there. The shared data and models can be used, as if they were in the same space you are working. Hence, it is possible to reuse existing data and models from other spaces without the need of shifting and synchronizing data forth and back. A typical scenario is a central space for master data. The benefit is a much lower development effort and TCO. 
 
 ### Downloading data from Data Market Place
+
 
 
 ![](./images/data_ingestion.png)
