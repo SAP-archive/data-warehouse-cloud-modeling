@@ -10,14 +10,13 @@ Let's have a closer look into the options:
 
 ### Pulling data via Connection
 This is the classic and standard way to ingest data in SAP Data Warehouse Cloud. For that you setup a connection to the source system and then just pull the data in. SAP Data Warehouse Cloud comes here with various connectors and adaptors to SAP and Non-SAP sources. There is also an option to install your own connector in order to access a specific source. Once the connection is set, you can **read the data** from the source system in two different modes: 
-- data federation (remote data access): keep the data in the sources and access them remotely. This approach will lower the cost of operations, since you will not consume any additional disc space. However, please be aware of potential performance penalties and security.   
-- data replication: copy and transfer the data physically into SAP Data Warehouse Cloud. This approach will utilize the underlying disc space in SAP data warehouse cloud.  
-
+- **Data Federation (remote data access)**: keep the data in the sources and access them remotely. This approach will lower the cost of operations, since you will not consume any additional disc space. However, please be aware of potential performance penalties and security.   
+- **Data Replication**: copy and transfer the data physically into SAP Data Warehouse Cloud. This approach will utilize the underlying disc space in SAP data warehouse cloud. You will benefit from the performance since the data are stored in the local persistence. In the SAP Data Warehouse Cloud the underlying persistence is the SAP HANA Cloud.
 
 ### Pushing data to Open SQL Schema
 The _Pushing Data_ approach is similar to _Pulling data_ approach. The main difference is the trigger point, who initiates the data load process. 
 While in the Pulling Data scenario the initiator is SAP Data Wareshouse Cloud itself by connecting to the source and read the data from it, whereas in the Pushing Data scenario, the initiator is an external client which **writes the data** into a dedicated persistence of SAP Data Warehouse Cloud: the _Open SQL Schema_.  
-The Open SQL Schema will grant a database user with access rights to read and write into SAP HANA Cloud, which is the undelying database of SAP Data Warehouse Cloud. 
+The Open SQL Schema will grant a database user with access rights to read and write into SAP HANA Cloud. 
 By using the database user credential, you can access the schema either with the Database Explorer (which comes along with the SAP Data Warehouse Cloud delivery) or with any other 3rd party client of your choice. With that you can execute standard SQL statements (DDL + DML), and integrate the artefacts later in the modeling.
 
 ### Sharing data from Spaces
