@@ -113,8 +113,7 @@ https://blogs.sap.com/2021/08/25/introduction-to-analytics-designer-developer-ha
 - [**Exercise 3.7 - Create Internal Orders Story in SAP Analytics Cloud**](/exercises/ex3/internal-orders-story) :star:
 
 
-
-[<h2>Exercise 4 - Sales Orders Extension</h2>](exercises/ex4/):construction::construction::construction:
+[<h2>Exercise 4 - Sales Orders Extension</h2>](exercises/ex4/)
 - **Exercise 4.1 - Get data from Open SQL Schema**
    - [Exercise 4.1.1 - Create Database Access User and Open SQL Schema](/exercises/ex4/open-sql-schema)
       - Database Access User
@@ -123,7 +122,7 @@ https://blogs.sap.com/2021/08/25/introduction-to-analytics-designer-developer-ha
       - Database Explorer  
    - [Exercise 4.1.3 - Adjust the Sales Order View](/exercises/ex4/sales-orders-union)
       - Union Node   
-   - [Exercise 4.1.4 - Use 3rd party database client](/exercises/ex4/3rd-party-db-client)
+   - [Exercise 4.1.4 - Use 3rd party database client](/exercises/ex4/3rd-party-db-client) :construction::construction::construction:
 - **Exercise 4.2 - Get data from Data Market Place** :construction::construction::construction:
    - [Exercise 4.2.1 - Download Sample Data from the Data Market Place](/exercises/ex4/data-market-place-sample-data-download)
       - Data Market Place
