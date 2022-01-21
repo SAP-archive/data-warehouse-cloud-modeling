@@ -2,8 +2,7 @@
 
 In this exercise, you're going to bring more data into the system and consolidate them with the Sales Orders.
 The classic way to ingest data is to **setup a connection with the data source** and afterwards to pull the data in.
-However, SAP Data Warehouse Cloud offers some more options in addition to that, which covers different scenarios and needs.  
-We are going to look into the options during the exercise.
+However, SAP Data Warehouse Cloud offers some more options in addition to that, which covers different scenarios and needs. We are going to look into the various options during the exercise.
 
 ![](./images/data_ingestion.png)
 
