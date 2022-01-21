@@ -1,12 +1,11 @@
 # Exercise 4 - Sales Orders Extension
 
 In this exercise, you're going to bring more data into the system and consolidate them with the Sales Orders.
-The classic way to ingest data is to **setup a connection with the data source** and afterwards to pull the data.
-In addition to that SAP Data Warehouse Cloud offers some more options, which covers different scenarios and needs. 
+The classic way to ingest data is to **setup a connection with the data source** and afterwards to pull the data in.
+However, SAP Data Warehouse Cloud offers some more options in addition to that, which covers different scenarios and needs.  
+We are going to look into the options during the exercise.
 
 ![](./images/data_ingestion.png)
-
-Let's have a closer look into the options:
 
 ### Pulling data via Connection
 This is the classic and standard way to ingest data in SAP Data Warehouse Cloud. For that you setup a connection to the source system and then just pull the data in. SAP Data Warehouse Cloud comes here with various connectors and adaptors to SAP and Non-SAP sources. There is also an option to install your own connector in order to access a specific source. Once the connection is set, you can **read the data** from the source system in two different modes: 
