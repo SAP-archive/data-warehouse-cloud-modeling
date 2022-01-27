@@ -21,7 +21,7 @@ By using the database user credential, you can access the schema with e.g. SAP H
 Here are some other examples, how you can utilize the Open SQL Schema for different use cases:
 - [SAP Data Intelligence Cloud – File Upsert into SAP Data Warehouse Cloud](https://blogs.sap.com/2021/12/23/sap-data-intelligence-cloud-file-upsert-into-sap-data-warehouse-cloud/)
 - [HOW TO use the SAP Business Technology Platform to extend SAP Marketing Cloud with Predictive Scores](https://blogs.sap.com/2022/01/11/how-to-use-the-sap-business-technology-platform-to-extend-sap-marketing-cloud-with-predictive-scores/)
-- https://sapdemostore.com/sap/bc/ui5_ui5/sap/yunifiedstore/index.html#/scenario/0000017447
+- [Market Basket Analysis using Embedded Machine Learning Features in SAP Data Warehouse Cloud](https://sapdemostore.com/sap/bc/ui5_ui5/sap/yunifiedstore/index.html#/scenario/0000017447)
 
 
 And last but not least, you can use any 3rd party client (e.g. DBeaver) or ETL tool of your choice to push data to the system.
